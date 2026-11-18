@@ -1,0 +1,9 @@
+---
+title: "MAT524-ProjectProposal"
+output: pdf_document
+date: "2026-11-18"
+---
+
+```{r}
+knitr::opts_chunk$set(echo = TRUE)
+```
